@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TDharshini18
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Cloud Security Aspects
+- 🌱 I’m currently learning Python and C 
 - 😄 Pronouns: she/her
 
 <!---
