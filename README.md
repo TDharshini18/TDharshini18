@@ -36,7 +36,7 @@ Computer Science Engineering student.
 <div align="center">
 
 <a href="https://leetcode.com/u/dharsh18/">
-  <img src="https://leetcard.jacoder.me/dharsh18?theme=dark&font=JetBrains%20Mono&ext=activity" alt="LeetCode stats"/>
+  <img src="https://leetcode-stats-card.herokuapp.com/api?username=dharsh18&theme=dark&hide_border=true" alt="LeetCode stats"/>
 </a>
 
 </div>
@@ -47,8 +47,8 @@ Computer Science Engineering student.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TDharshini18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDharshini18&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img src="https://img.shields.io/github/followers/TDharshini18?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="Followers"/>
+<img src="https://img.shields.io/badge/Public%20Repos-16-302b63?style=for-the-badge&logo=github&labelColor=0f0c29" alt="Public repos"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TDharshini18&theme=tokyonight&hide_border=true" alt="Streak"/>
 
