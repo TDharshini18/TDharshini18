@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=T%20Dharshini%20&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=60&descSize=20" alt="Dharshini T"/>
 
 <a href="https://www.linkedin.com/in/dharshini-t-694897328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:tdharhini18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/u/dharsh18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=TDharshini18&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views"/>
