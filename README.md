@@ -31,18 +31,6 @@ Computer Science Engineering student.
 
 ---
 
-## LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/dharsh18/">
-  <img src="https://leetcode-stats-card.herokuapp.com/api?username=dharsh18&theme=dark&hide_border=true" alt="LeetCode stats"/>
-</a>
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
